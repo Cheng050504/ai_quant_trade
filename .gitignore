@@ -49,3 +49,6 @@ mlruns
 ly_*
 logsite/
 site/
+
+# local virtual environment
+.venv/
